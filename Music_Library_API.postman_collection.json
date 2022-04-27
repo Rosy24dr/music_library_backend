@@ -38,7 +38,15 @@
 			"response": []
 		},
 		{
-			"name": "New Request",
+			"name": "Delete_Song",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Update_With_Patch",
 			"request": {
 				"method": "GET",
 				"header": []
